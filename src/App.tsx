@@ -43,8 +43,8 @@ function App() {
       <div>
         🥳 App successfully hosted. Try creating a new todo.
         <br />
-        <a href="https://docs.amplify.aws/react/start/quickstart/#make-frontend-updates">
-          Review next step of this tutorial.
+        <a href="https://www.bobbydigi1.com">
+          Built by LL&L llc  Website www.bobbydigi1.com
         </a>
       </div>
                 <button onClick={signOut}>Sign out</button>
